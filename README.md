@@ -24,8 +24,9 @@ meu portifolio ne bb
             <p class="badge bg-secondary">Niink</p>
         </div>
     </header>
-    <title>Playlist que eu fiz pro meu amor!</title>
-   <link href="https://open.spotify.com/playlist/6PUR9sSI7dAZ9Dx7DOs86c?si=e0BMGMjETsGQvtR1Xax6Kg"stylesheet">
+    Playlist que eu fiz pro meu amor!
+    
+   <link>"https://open.spotify.com/playlist/6PUR9sSI7dAZ9Dx7DOs86c?si=e0BMGMjETsGQvtR1Xax6Kg"stylesheet">
 </body>
 
 </html>

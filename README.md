@@ -13,9 +13,8 @@ meu portifolio ne bb
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
-        <h1>Eu ensino Programação</h1>
+        <p class="lead">EH A CLARISSA NÉ B_</p>
+        <h1>im still in love!</h1>
         <p>Eu gosto de música e assistir anime, to super apaixonada, espero q dê certo</p>
         <p>Meus cantores fav!</p>
         <div>
@@ -25,7 +24,8 @@ meu portifolio ne bb
             <p class="badge bg-secondary">Niink</p>
         </div>
     </header>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Playlist que eu fiz pro meu amor!</title>
+   <link href="https://open.spotify.com/playlist/6PUR9sSI7dAZ9Dx7DOs86c?si=e0BMGMjETsGQvtR1Xax6Kg"stylesheet">
 </body>
 
 </html>

@@ -25,7 +25,8 @@ meu portifolio ne bb
         </div>
     </header>
     Playlist que eu fiz pro meu amor!
-    
+   <img src="![eueogui](https://github.com/user-attachments/assets/a6353d5b-e9c8-4855-937c-730982981e4b)
+" alt="Eu e o meu amor!"> 
    <link>"https://open.spotify.com/playlist/6PUR9sSI7dAZ9Dx7DOs86c?si=e0BMGMjETsGQvtR1Xax6Kg"stylesheet">
 </body>
 
